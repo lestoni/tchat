@@ -1,18 +1,27 @@
 {
-    "name": "tchat",
-    "version": "1.0.0",
-    "description": "TCP Chat server",
-    "keywords": [],
-    "author": "Tony Mutai <tonimut7@gmail.com>",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/lestoni/tChat.git"
-    },
-    "dependencies": {},
-    "devDependencies": {
-        "mocha": "*",
-        "should": "*"
-    },
-    "main": "index",
-    "license": "MIT"
+  "name": "tchat",
+  "version": "1.0.0",
+  "description": "Simple and Dope TCP Chat Server",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestoni/tchat.git"
+  },
+  "keywords": [
+    "tcp",
+    "chat"
+  ],
+  "author": "Tony Mutai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/tchat/issues"
+  },
+  "homepage": "https://github.com/lestoni/tchat#readme"
 }
