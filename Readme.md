@@ -3,6 +3,12 @@
 
   Simple and Dope TCP Chat Server
 
+Features:
+
+- Global Chatroom
+- Ability to change username
+- Keeps connection alive but disconnects idle sockets(timeout=2mins).
+
 ## License
 
 (The MIT License)
