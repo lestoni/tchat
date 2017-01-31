@@ -14,7 +14,7 @@ Features:
 
 ```js
   //./examples/server.js
-  var TChat = require('tchat');
+  var TChat = require('tchat-server');
 
 
   var tchat = new TChat({

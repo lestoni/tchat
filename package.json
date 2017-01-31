@@ -1,5 +1,5 @@
 {
-  "name": "tchat",
+  "name": "tchat-server",
   "version": "1.0.0",
   "description": "Simple and Dope TCP Chat Server",
   "main": "index.js",
