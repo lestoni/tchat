@@ -1,0 +1,18 @@
+{
+    "name": "TChat",
+    "version": "0.0.1",
+    "description": "TCP Chat server with TLS/SSL support",
+    "keywords": [],
+    "author": "Tony Mutai <tonimut7@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/letoni/TChat.git"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "main": "index",
+    "license": "MIT"
+}

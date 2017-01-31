@@ -1,0 +1,12 @@
+{
+    "node": true,
+    "eqeqeq": true,
+    //"strict": true,
+    "curly": true,
+    "indent": 2,
+    "undef": true,
+    "unused": true,
+    "maxparams": 3,
+    "quotmark": "single",
+    "loopfunc": true
+}
