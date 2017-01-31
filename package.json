@@ -1,12 +1,12 @@
 {
     "name": "TChat",
-    "version": "0.0.1",
-    "description": "TCP Chat server with TLS/SSL support",
+    "version": "1.0.0",
+    "description": "TCP Chat server",
     "keywords": [],
     "author": "Tony Mutai <tonimut7@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "git://github.com/letoni/TChat.git"
+        "url": "git://github.com/lestoni/tChat.git"
     },
     "dependencies": {},
     "devDependencies": {

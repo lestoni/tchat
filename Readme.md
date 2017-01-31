@@ -9,6 +9,24 @@ Features:
 - Ability to change username
 - Keeps connection alive but disconnects idle sockets(timeout=2mins).
 
+
+## Usage
+
+```js
+  //./examples/server.js
+  var TChat = require('tchat');
+
+
+  var tchat = new TChat({
+    port: 4001,
+    maxConnections: 50,
+    timeout: (60000 * 5)
+  });
+
+  tchat.start();
+
+```
+
 ## License
 
 (The MIT License)
